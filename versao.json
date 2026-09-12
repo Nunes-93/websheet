@@ -1,5 +1,5 @@
 {
   "versao": "1.1.0",
   "url": "https://github.com/Nunes-93/websheet/releases/latest",
-  "notas": "Ready-made visual components, a wizard that flags the missing field, and an inspiration folder that drives the design."
+  "notas": "Ready-made visual components, a wizard that flags the missing field, and an inspiration folder that drives the design.\n\n**An optional password for the Access database.** You set it in the wizard, and it is compiled into the app: the file does not open outside it. Leave it empty and the database is born open, exactly as before.\n\n**One eye on a masked field, not two.** The engine was drawing its own reveal button on top of the one the wizard draws. The Supabase key now has one of its own as well.\n\n**The IDE menu is alphabetical** and it remembers the one you used last."
 }
